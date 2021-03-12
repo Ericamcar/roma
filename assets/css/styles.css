@@ -94,6 +94,7 @@ hr {
 /*Header Styles*/
 
 header {
+  z-index: 1;
   position: absolute;
   width: 100%;
   display: flex;
